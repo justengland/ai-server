@@ -12,7 +12,7 @@ A Docker Compose setup for running Ollama with Open WebUI.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/justengland/ai-server.git
 cd ai-server
 ```
 
