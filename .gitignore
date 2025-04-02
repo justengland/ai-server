@@ -1,0 +1,27 @@
+# Docker compose local overrides
+docker-compose.local.yml
+
+# Environment variables
+.env
+.env.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Dependencies and build artifacts
+node_modules/
+dist/
+build/
+*.pyc
+__pycache__/ 

@@ -1,0 +1,4 @@
+services:
+  ollama:
+    volumes:
+      - /path/to/your/models:/root/.ollama/models  # Replace with your local path 
